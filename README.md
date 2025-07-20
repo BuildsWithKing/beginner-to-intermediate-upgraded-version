@@ -120,9 +120,27 @@ MIT License – free to learn, remix, and build upon it.
 
 ---
 
-✍ Author
+## ✍ Author
 
-Built with 💻 by @BuildsWithKing
-Follow my journey on X () and LinkedIn!
+Built with 💡 by [@BuildsWithKing](https://github.com/BuildsWithKing)  
+
+---
+
+### 💬 Want to Follow My Journey?
+
+📡 Twitter/X – [@BuildsWithKing](https://x.com/BuildsWithKing/)  
+🌍 Website – https://buildswithking.vercel.app  
+🧠 GitHub Profile – https://github.com/BuildsWithKing  
+
+Let’s connect and grow in public!
+
+---
+> “I believe mastery comes through consistency — and I’m here to prove it.”
+— Michealking 👑
+---
+
+## ⭐ Give Credit If It Helps You
+
+If this inspires your learning journey, kindly give the repo a ⭐ or mention in your posts!
 
 ---
