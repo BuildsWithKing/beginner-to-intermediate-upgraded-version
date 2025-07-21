@@ -47,8 +47,12 @@ The project includes a full Foundry test suite covering:
 - ETH deposits and withdrawals
 
 ---
-Current Coverage: 87.04%
+Previous Coverage: 87.04%
 ![alt text](image.png)
+---
+---
+Latest Coverage: 93.65%
+<img width="958" height="506" alt="image" src="https://github.com/user-attachments/assets/d1ceb048-90bc-4632-bbfb-c28d2a63dbc7" />
 ---
 
 ### Run tests locally with:
